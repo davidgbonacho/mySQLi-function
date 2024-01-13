@@ -4,7 +4,7 @@ A function to use mysqli_sql procedure functions (Optionally, you can use the my
 
 `[SimPIL are a series of ultra-simple examples of how to perform different operations with code. Uncomplicated.]`
 
-## Install
+## Install 
 Simply clone the repo and run the code from Apache and mySQL or mariaDB server. Load index.html. 
 
 ## Perform
