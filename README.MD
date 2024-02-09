@@ -9,7 +9,7 @@ Simply clone the repo and run the code from Apache and mySQL or mariaDB server. 
 
 ## Perform
 Simply request the document with the function and call it with the query as argument:
-```
+```php
 require_once(php/connection.php);
 
 $myarray = mysqli_sql('select * from mytable');
@@ -18,7 +18,7 @@ foreach ($myarray as $object) {
     // run all the rows
     foreach ($object as $key => $value) {
         // run all the columns
-        {your code here using $key and $value as data}
+        //{your code here using $key and $value as data}
     }
 }
 ```
