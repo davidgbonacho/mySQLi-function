@@ -3,7 +3,6 @@
  * use mysqli (procedurally and as object)
  */
 
-
 define('hostnameBDD', '{your host}');
 define('usernameBDD', '{your user}');
 define('passwordBDD', '{your password}');
