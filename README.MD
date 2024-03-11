@@ -26,7 +26,7 @@ foreach ($myarray as $object) {
 ## Files
 - php/connection.php with the mysqli_sql function
 - index.php with the call
-- img/logo.svg: only important images are here
+- img/logo.svg: only important images are here 
 
 
 ![](img/logo.svg)
