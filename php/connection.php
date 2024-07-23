@@ -1,6 +1,6 @@
 <?
 /**
- * use mysqli (procedurally and as object)
+ * use mysqli (procedurally and `as object`)
  */
 
 define('hostnameBDD', '{your host}');
