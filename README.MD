@@ -29,6 +29,8 @@ foreach ($myarray as $object) {
 - img/logo.svg: only important images are here 
 
 
+[Text in Spanish here](README_ES.MD)
+
 ![](img/logo.svg)
 ---
 `título:` mySQLi function [`SimPIL`] 01/13/24\
