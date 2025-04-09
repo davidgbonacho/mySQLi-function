@@ -27,7 +27,7 @@ foreach ($myarray as $object) {
 - index.php con la llamada
 - img/logo.svg: solo las imágenes importantes están aquí
 
-[Text in Englilsh here](README.MD)
+[Text in English here](README.MD)
 
 ![](img/logo.svg)
 
